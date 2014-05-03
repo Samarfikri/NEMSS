@@ -1,0 +1,2 @@
+class MahaController < ApplicationController
+end
